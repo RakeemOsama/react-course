@@ -1,3 +1,4 @@
+import './header.css'
 import './TrackingPage.css'
 
 export function TrackingPage() {
